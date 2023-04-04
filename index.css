@@ -151,7 +151,7 @@ body{
 
 @media (max-width: 768px){
     .b1{
-        margin-left: 35%;
+        margin-left: 38%;
         margin-top: 90%;
         width: 6rem;
         height: 2rem;
@@ -212,19 +212,19 @@ body{
     .container h2{
         position: absolute;
         font-size: 20px;
-        margin-top: 4rem;
+        margin-top: 3rem;
         margin-left: 13%;
     }
 
     .container img{
-        left: 25%;
+        left: 8%;
         top: 11rem;
-        width: 210px;
-        height: 380px;
+        width: 350px;
+        height: 400px;
     }
 
     .c3{
-        margin-top: 36rem;
+        margin-top: 38rem;
         margin-left: 25%;
     }
 }
